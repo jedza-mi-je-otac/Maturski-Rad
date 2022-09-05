@@ -2,7 +2,7 @@
 
 ### LICENCA
  [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)\
- *"Jer kad je dzabe, i sirce je slatko."*
+ *"Jer kad je džabe, i sirće je slatko."*
 
 ### 'Skidanje' igrice
 
